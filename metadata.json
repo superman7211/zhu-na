@@ -1,0 +1,5 @@
+{
+  "name": "Nanjing Travel Optimizer",
+  "description": "A smart travel planner that finds the optimal hotel location in Nanjing based on a 'Hub and Spoke' travel model to minimize commute time to key attractions.",
+  "requestFramePermissions": []
+}
